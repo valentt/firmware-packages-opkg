@@ -6,7 +6,7 @@ PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/valentt/nodewatcher-agent.git
-PKG_SOURCE_VERSION:=a2307711cd68a2d6f4ecb7fbd1efb33d21c71de1
+PKG_SOURCE_VERSION:=408331cc530ebe976c86bc14555c4362cc03c916
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION)-$(PKG_SOURCE_VERSION).tar.xz
 PKG_MAINTAINER:=Valent Turkovic <valent@otvorenamreza.org>
 PKG_MIRROR_HASH:=skip
