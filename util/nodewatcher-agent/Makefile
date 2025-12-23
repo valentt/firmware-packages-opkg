@@ -12,7 +12,6 @@ PKG_MAINTAINER:=Valent Turkovic <valent@otvorenamreza.org>
 PKG_MIRROR_HASH:=skip
 CMAKE_INSTALL:=1
 
-PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)
 PKG_BUILD_PARALLEL:=1
 
 include $(INCLUDE_DIR)/package.mk
